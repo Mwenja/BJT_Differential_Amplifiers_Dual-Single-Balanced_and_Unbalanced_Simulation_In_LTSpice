@@ -1,0 +1,2 @@
+# BJT_Differential_Amplifiers_Dual-Single-Balanced_and_Unbalanced_Simulation_In_LTSpice
+LTSpice Simulation Of A Bipolar Junction Transistor Based Differential Amplifier With A BJT Current Source Using Four Configurations:Dual Input Balanced Output(DIBO),Dual Input Unbalanced Output(DIUO),Single Input Balanced Output(SIBO) and Single Input Unbalanced Output(SIUO) with specific Current Gain Bf parameter.
